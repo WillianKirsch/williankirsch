@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋 Willian Kirsch here!
+
+- 🔭 I’m currently working as a Tech Leader on Ravex
 
 <!--
 **WillianKirsch/williankirsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
