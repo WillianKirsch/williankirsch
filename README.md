@@ -1,4 +1,4 @@
-### Hello 👋 Willian Kirsch here! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Willian Kirsch here! 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -18,9 +18,9 @@
 
 ### Abstract
 
-- 👨‍💻   Engenheiro de Software Flutter na **Toro Investimentos**.
-- 🌱   Formado em Ciência da computação, e pós em gestão de projetos, análise e desenvolvimento de sistemas.
-- 💙   Interesse: Dart/Flutter, TypeScript-JavaScript/Angular-React, Node, C#/.Net-Xamarin.
+- 👨‍💻   Flutter Software Engineer at **Toro Investimentos**.
+- 🌱   Graduated in Computer Science, and postgraduate in project management, analysis and systems development.
+- 💙   Interest: Dart/Flutter, TypeScript-JavaScript/Angular-React, Node, C#/.Net-Xamarin.
 
 
 ## Skills :nerd_face:
@@ -51,7 +51,7 @@
 
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total visits :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/WillianKirsch/count.svg" />
  </p>
