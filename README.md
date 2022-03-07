@@ -19,7 +19,7 @@
 ### Abstract
 
 - 👨‍💻   Engenheiro de Software Flutter na **Toro Investimentos**.
-- 🌱   Formado em Ciência da computação, e pós em gestão de projetos, analise e desenvolvimento de sistemas.
+- 🌱   Formado em Ciência da computação, e pós em gestão de projetos, análise e desenvolvimento de sistemas.
 - 💙   Interesse: Dart/Flutter, TypeScript-JavaScript/Angular-React, Node, C#/.Net-Xamarin.
 
 
