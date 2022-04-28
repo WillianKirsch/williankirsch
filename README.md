@@ -1,23 +1,5 @@
 ### Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Willian Kirsch here! 
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianKirsch&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=WillianKirsch&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
-
-### Abstract
-
 - 👨‍💻   Flutter Software Engineer at **Toro Investimentos**.
 - 🌱   Graduated in Computer Science, and postgraduate in project management, analysis and systems development.
 - 💙   Interest: Dart/Flutter, TypeScript-JavaScript/Angular-React, Node, C#/.Net-Xamarin.
@@ -98,11 +80,40 @@
     </a>
 </p>
 
-<p align="center"> 
+## GitHub Status 📈 <br>
+
+  <div align="center" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+       <img
+        align="center"
+        width="65%"
+        src="https://github-readme-stats.vercel.app/api?username=WillianKirsch&count_private=true&show_icons=true&theme=react&hide_border=true"
+      />
+    </a>
+  </div>
+  <br />
+
+<p align="center">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      width="35%"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianKirsch&count_private=true&text_color=ffffff&bg_color=20232a&layout=compact&hide_border=true&langs_count=4"
+    />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img
+      align="center"
+      width="396" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=williankirsch&count_private=true&theme=react&hide_border=true"
+      alt="willian-kirsch"
+    />
+  </a>
+</p>
+
 
  ## Total visits :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/WillianKirsch/count.svg" />
  </p>
-
-</p>
