@@ -6,8 +6,8 @@
 
 
 ## 🛠 Tech Stack
-<p align="center">
-  
+<h3>Languages</h3>
+<p align="left">
   <img height="40" src="https://simpleicons.org/icons/csharp.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
   <img height="40" src="https://simpleicons.org/icons/typescript.svg">
@@ -16,7 +16,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://simpleicons.org/icons/dart.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br/><br/>
+</p>
+  <br/>
+<h3>Frameworks</h3>
+<p align="left">
   <img height="40" src="https://simpleicons.org/icons/dotnet.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://simpleicons.org/icons/nodedotjs.svg">
@@ -25,7 +28,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://simpleicons.org/icons/xamarin.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
   <img height="40" src="https://simpleicons.org/icons/angularjs.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://simpleicons.org/icons/electron.svg">
@@ -34,14 +36,22 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://simpleicons.org/icons/ionic.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br/><br/>
-  <img height="40" src="https://simpleicons.org/icons/windows10.svg">
+</p>
+<br/>
+<h3>IDE's</h3>
+<p align="left">
+  <img height="40" src="https://simpleicons.org/icons/androidstudio.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://simpleicons.org/icons/apple.svg">
+  <img height="40" src="https://simpleicons.org/icons/visualstudio.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://simpleicons.org/icons/android.svg">
+  <img height="40" src="https://simpleicons.org/icons/visualstudiocode.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br/><br/>
+  <img height="40" src="https://simpleicons.org/icons/xcode.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br/>
+<h3>Devops</h3>
+<p align="left">
   <img height="40" src="https://simpleicons.org/icons/microsoftazure.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://simpleicons.org/icons/googlecloud.svg">
@@ -52,16 +62,18 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img height="40" src="https://simpleicons.org/icons/firebase.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <br/><br/>
-  <img height="40" src="https://simpleicons.org/icons/androidstudio.svg">
+  <img height="40" src="https://simpleicons.org/icons/codemagic.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</p>
+<br/>
+<h3>SO's</h3>
+<p align="left">
+  <img height="40" src="https://simpleicons.org/icons/windows10.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://simpleicons.org/icons/visualstudio.svg">
+  <img height="40" src="https://simpleicons.org/icons/apple.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://simpleicons.org/icons/visualstudiocode.svg">
+  <img height="40" src="https://simpleicons.org/icons/android.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://simpleicons.org/icons/xcode.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
 </p>
 
 ## :iphone: Contact
